@@ -1,0 +1,7 @@
+@mixin box-shadow {
+    box-shadow: rgba(0, 0, 0, 0.116) 0px 25px 50px -12px;
+}
+
+@mixin radius {
+    border-radius: $radius !important;
+}

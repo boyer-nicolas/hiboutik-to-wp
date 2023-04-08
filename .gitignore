@@ -1,0 +1,4 @@
+build/*.hot-update.js
+node_modules/
+import.log
+lang/*backup*

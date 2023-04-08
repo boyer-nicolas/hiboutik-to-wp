@@ -1,0 +1,27 @@
+{
+    "name": "niwee/niwhiboutik",
+    "description": "Retrieve all of your Hiboutik products easily",
+    "keywords": [
+        "hiboutik",
+        "api",
+        "retrieve",
+        "products"
+    ],
+    "optimize-autoloader": true,
+    "autoload": {
+        "psr-4": {
+            "Niwee\\Niwhiboutik\\": "lib/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NiWee Productions",
+            "email": "hello@niwee.fr"
+        }
+    ],
+    "require": {
+        "filp/whoops": "^2.14",
+        "hiboutik/hiboutikapi": "^2.5",
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}

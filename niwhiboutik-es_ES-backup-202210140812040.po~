@@ -1,0 +1,775 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hiboutik byNiWee\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-07 20:10+0000\n"
+"PO-Revision-Date: 2022-10-14 08:11+0000\n"
+"Last-Translator: Nicolas Boyer\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: niwhiboutik"
+
+#: lib/Woo.php:1354 lib/Woo.php:1624 lib/Woo.php:1673
+msgid " at "
+msgstr ""
+
+#: lib/Woo.php:1676
+msgid " failed in "
+msgstr ""
+
+#: lib/Woo.php:661
+msgid " in Woocommerce"
+msgstr ""
+
+#: lib/Woo.php:247
+msgid " products in Woocommerce."
+msgstr ""
+
+#: lib/Woo.php:1627
+msgid " succedeed in "
+msgstr ""
+
+#: lib/Woo.php:1357
+msgid " was stopped manually"
+msgstr ""
+
+#: niwhiboutik.php:61
+msgid "Activate"
+msgstr ""
+
+#: niwhiboutik.php:62
+msgid "Activating"
+msgstr ""
+
+#: niwhiboutik.php:63
+msgid "Activation error"
+msgstr ""
+
+#: niwhiboutik.php:72
+msgid "activation left"
+msgstr ""
+
+#: niwhiboutik.php:71
+msgid "activations left"
+msgstr ""
+
+#: lib/Woo.php:112
+msgid "Add New Brand"
+msgstr ""
+
+#: lib/Woo.php:92
+msgid "All Brands"
+msgstr ""
+
+#: niwhiboutik.php:80
+msgid "Alright"
+msgstr ""
+
+#: niwhiboutik.php:55
+msgid ""
+"An import is already in progress. Please wait for it to finish before "
+"searching products"
+msgstr ""
+
+#: niwhiboutik.php:57
+msgid ""
+"An import is in progress. Please wait for it to finish before changing "
+"settings"
+msgstr ""
+
+#: niwhiboutik.php:269
+msgid "at"
+msgstr ""
+
+#: niwhiboutik.php:133
+msgid "Authentication error"
+msgstr ""
+
+#: niwhiboutik.php:134
+msgid "Authentication success"
+msgstr ""
+
+#: lib/Woo.php:76
+msgid "Back to Brands"
+msgstr ""
+
+#: lib/Woo.php:84
+msgid "Brand"
+msgstr ""
+
+#: lib/Woo.php:67 lib/Woo.php:72 lib/Woo.php:1215
+msgid "Brands"
+msgstr ""
+
+#: lib/Woo.php:135
+msgid "brands"
+msgstr ""
+
+#: niwhiboutik.php:121
+msgid "by ID"
+msgstr ""
+
+#: niwhiboutik.php:120
+msgid "by name"
+msgstr ""
+
+#: niwhiboutik.php:140
+msgid "Cannot find link"
+msgstr ""
+
+#: niwhiboutik.php:51
+msgid "Cannot retrieve products"
+msgstr ""
+
+#: niwhiboutik.php:59
+msgid "Cannot save while importing"
+msgstr ""
+
+#: niwhiboutik.php:52
+msgid "Cannot stop import"
+msgstr ""
+
+#: lib/Woo.php:1180
+msgid "Categories"
+msgstr ""
+
+#: niwhiboutik.php:42
+msgid "Check in progress"
+msgstr ""
+
+#: niwhiboutik.php:69
+msgid "Checking license validity"
+msgstr ""
+
+#: lib/Woo.php:331
+msgid "Cleaning up"
+msgstr ""
+
+#: niwhiboutik.php:35 niwhiboutik.php:85 lib/Ui.php:30 lib/Ui.php:41
+#: lib/Ui.php:42
+msgid "Control Panel"
+msgstr ""
+
+#: lib/ByNiWee.php:336
+msgid "Could not activate license key."
+msgstr ""
+
+#: lib/ByNiWee.php:67 lib/ByNiWee.php:274 lib/ByNiWee.php:293
+#: lib/ByNiWee.php:385
+msgid "Could not connect to the byniwee server."
+msgstr ""
+
+#: niwhiboutik.php:65
+msgid "Deactivate"
+msgstr ""
+
+#: lib/Woo.php:1000
+msgid "Downloading images"
+msgstr ""
+
+#: lib/Woo.php:104
+msgid "Edit Brand"
+msgstr ""
+
+#: niwhiboutik.php:147
+msgid ""
+"Enter the link to your Hiboutik account followed by \"/api\" (example: https:"
+"//mycompany.hiboutik.com/api)"
+msgstr ""
+
+#: niwhiboutik.php:155
+msgid "Enter your Hiboutik byNiWee key"
+msgstr ""
+
+#: niwhiboutik.php:149
+msgid "Enter your Hiboutik login (generally an email)"
+msgstr ""
+
+#: niwhiboutik.php:151
+msgid "Enter your Hiboutik token"
+msgstr ""
+
+#: niwhiboutik.php:46
+msgid "Error"
+msgstr ""
+
+#: niwhiboutik.php:122
+msgid "Error importing product"
+msgstr ""
+
+#: niwhiboutik.php:130
+msgid "Error retrieving information"
+msgstr ""
+
+#: niwhiboutik.php:66
+msgid "Error saving license"
+msgstr ""
+
+#: niwhiboutik.php:132
+msgid ""
+"Error saving login info, please contact your server administrator or support."
+msgstr ""
+
+#: lib/Woo.php:902
+msgid "Getting stock"
+msgstr ""
+
+#: niwhiboutik.php:104
+msgid ""
+"Here you can search for products and import them manually. This method is "
+"recommended when you have updated a small amount of products in Hiboutik to "
+"avoid running a full import catalogue that may take time and resources.\n"
+"\n"
+"            You only need to start writing in the search bar to find "
+"products to import."
+msgstr ""
+
+#: niwhiboutik.php:162
+msgid "Here you can see the orders that have been imported from Hiboutik."
+msgstr ""
+
+#. Name of the plugin
+msgid "Hiboutik byNiWee"
+msgstr ""
+
+#: niwhiboutik.php:154
+msgid "Hiboutik byNiWee key"
+msgstr ""
+
+#: niwhiboutik.php:142
+msgid "Hiboutik connection status"
+msgstr ""
+
+#: niwhiboutik.php:146
+msgid "Hiboutik link"
+msgstr ""
+
+#: niwhiboutik.php:143
+msgid "Hiboutik login data"
+msgstr ""
+
+#: niwhiboutik.php:148
+msgid "Hiboutik login info"
+msgstr ""
+
+#: niwhiboutik.php:150
+msgid "Hiboutik token"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://agence.niwee.fr/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://plugins.byniwee.io/shop/wordpress/licence-niwhiboutik/"
+msgstr ""
+
+#: niwhiboutik.php:127
+msgid "Import"
+msgstr ""
+
+#: niwhiboutik.php:82
+msgid "Import canceled"
+msgstr ""
+
+#: niwhiboutik.php:38
+msgid "Import catalog"
+msgstr ""
+
+#: niwhiboutik.php:54
+msgid "Import done"
+msgstr ""
+
+#: niwhiboutik.php:50
+msgid "Import error"
+msgstr ""
+
+#: niwhiboutik.php:49
+msgid "Import finished"
+msgstr ""
+
+#: niwhiboutik.php:158
+msgid "Import images"
+msgstr ""
+
+#: lib/Woo.php:757 lib/Woo.php:770 lib/Woo.php:1262 lib/Woo.php:1287
+msgid "Import is done"
+msgstr ""
+
+#: niwhiboutik.php:36 niwhiboutik.php:129
+msgid "Import status"
+msgstr ""
+
+#: niwhiboutik.php:48
+msgid "Import stopped"
+msgstr ""
+
+#: lib/Woo.php:359
+msgid "Import terminé avec des erreurs"
+msgstr ""
+
+#: lib/Woo.php:348
+msgid "Import terminé avec succès"
+msgstr ""
+
+#: niwhiboutik.php:43
+msgid "Importing"
+msgstr ""
+
+#: lib/Woo.php:245
+msgid "Importing "
+msgstr ""
+
+#: niwhiboutik.php:128
+msgid "Importing product"
+msgstr ""
+
+#: niwhiboutik.php:193
+msgid "Include shop"
+msgstr ""
+
+#: lib/Woo.php:217
+msgid "Initializing"
+msgstr ""
+
+#: niwhiboutik.php:138
+msgid "Internal error"
+msgstr ""
+
+#: niwhiboutik.php:137
+msgid "Invalid credentials"
+msgstr ""
+
+#: lib/Woo.php:304
+msgid "Less than 1"
+msgstr ""
+
+#: lib/ByNiWee.php:352
+msgid "License key is activated."
+msgstr ""
+
+#: lib/ByNiWee.php:314
+msgid "License key is already activated."
+msgstr ""
+
+#: lib/ByNiWee.php:51 lib/ByNiWee.php:256
+msgid "License key is empty"
+msgstr ""
+
+#: lib/ByNiWee.php:34 lib/ByNiWee.php:241 lib/ByNiWee.php:368
+msgid "License key is invalid"
+msgstr ""
+
+#: lib/ByNiWee.php:171
+msgid "License key is valid and activated."
+msgstr ""
+
+#: lib/ByNiWee.php:159
+msgid "License key is valid, but requires activation."
+msgstr ""
+
+#: niwhiboutik.php:44
+msgid "Loading"
+msgstr ""
+
+#: niwhiboutik.php:93
+msgid "Loading notification"
+msgstr ""
+
+#: niwhiboutik.php:164
+msgid "Loading orders"
+msgstr ""
+
+#: niwhiboutik.php:131
+msgid "Login info saved"
+msgstr ""
+
+#: niwhiboutik.php:190
+msgid "Menu Options"
+msgstr ""
+
+#: lib/Woo.php:698
+msgid "Metadata"
+msgstr ""
+
+#: niwhiboutik.php:99
+msgid "Modify"
+msgstr ""
+
+#: lib/Woo.php:116
+msgid "New Brand Name"
+msgstr ""
+
+#. Author of the plugin
+msgid "NiWee Productions"
+msgstr ""
+
+#: lib/Woo.php:80
+msgid "No brands found."
+msgstr ""
+
+#: niwhiboutik.php:92
+msgid "No import registered"
+msgstr ""
+
+#: niwhiboutik.php:163
+msgid "No orders"
+msgstr ""
+
+#: niwhiboutik.php:110
+msgid "No results"
+msgstr ""
+
+#: niwhiboutik.php:90
+msgid "Notifications"
+msgstr ""
+
+#: niwhiboutik.php:156
+msgid "Official Byniwee documentation"
+msgstr ""
+
+#: niwhiboutik.php:152
+msgid "Official Hiboutik documentation"
+msgstr ""
+
+#: niwhiboutik.php:165
+msgid "Order"
+msgstr ""
+
+#: niwhiboutik.php:170
+msgid "Order customer"
+msgstr ""
+
+#: niwhiboutik.php:173
+msgid "Order customer address"
+msgstr ""
+
+#: niwhiboutik.php:174
+msgid "Order customer city"
+msgstr ""
+
+#: niwhiboutik.php:176
+msgid "Order customer country"
+msgstr ""
+
+#: niwhiboutik.php:171
+msgid "Order customer email"
+msgstr ""
+
+#: niwhiboutik.php:177
+msgid "Order customer note"
+msgstr ""
+
+#: niwhiboutik.php:172
+msgid "Order customer phone"
+msgstr ""
+
+#: niwhiboutik.php:175
+msgid "Order customer postcode"
+msgstr ""
+
+#: niwhiboutik.php:167
+msgid "Order date"
+msgstr ""
+
+#: niwhiboutik.php:179
+msgid "Order item"
+msgstr ""
+
+#: niwhiboutik.php:180
+msgid "Order item name"
+msgstr ""
+
+#: niwhiboutik.php:182
+msgid "Order item price"
+msgstr ""
+
+#: niwhiboutik.php:181
+msgid "Order item quantity"
+msgstr ""
+
+#: niwhiboutik.php:184
+msgid "Order item SKU"
+msgstr ""
+
+#: niwhiboutik.php:183
+msgid "Order item total"
+msgstr ""
+
+#: niwhiboutik.php:185
+msgid "Order item variation"
+msgstr ""
+
+#: niwhiboutik.php:187
+msgid "Order item variation attributes"
+msgstr ""
+
+#: niwhiboutik.php:186
+msgid "Order item variation ID"
+msgstr ""
+
+#: niwhiboutik.php:178
+msgid "Order items"
+msgstr ""
+
+#: niwhiboutik.php:166
+msgid "Order number"
+msgstr ""
+
+#: niwhiboutik.php:168
+msgid "Order status"
+msgstr ""
+
+#: niwhiboutik.php:169
+msgid "Order total"
+msgstr ""
+
+#: niwhiboutik.php:161
+msgid "Orders"
+msgstr ""
+
+#: niwhiboutik.php:139
+msgid "Page not found"
+msgstr ""
+
+#: lib/Woo.php:96
+msgid "Parent Brand"
+msgstr ""
+
+#: lib/Woo.php:100
+msgid "Parent Brand:"
+msgstr ""
+
+#: niwhiboutik.php:113
+msgid "Please enter at least three characters"
+msgstr ""
+
+#: niwhiboutik.php:114
+msgid "Please enter your login info"
+msgstr ""
+
+#: niwhiboutik.php:153
+msgid "Plugin activation"
+msgstr ""
+
+#: lib/Woo.php:849
+msgid "Price"
+msgstr ""
+
+#: niwhiboutik.php:123
+msgid "Product"
+msgstr ""
+
+#: niwhiboutik.php:118
+msgid "Product found"
+msgstr ""
+
+#: niwhiboutik.php:119
+msgid "Products found"
+msgstr ""
+
+#: niwhiboutik.php:79
+msgid "Progress"
+msgstr ""
+
+#: niwhiboutik.php:159
+msgid "Refresh"
+msgstr ""
+
+#: niwhiboutik.php:192
+msgid "Regenerate"
+msgstr ""
+
+#: niwhiboutik.php:73
+msgid "Regenerating"
+msgstr ""
+
+#: niwhiboutik.php:83
+msgid "Remaining time"
+msgstr ""
+
+#. Description of the plugin
+msgid "Retrieve all of your Hiboutik products easily."
+msgstr ""
+
+#: niwhiboutik.php:47
+msgid "Retry"
+msgstr ""
+
+#: niwhiboutik.php:56 niwhiboutik.php:100
+msgid "Save"
+msgstr ""
+
+#: lib/Woo.php:1254
+msgid "Saving"
+msgstr ""
+
+#: lib/Woo.php:1069
+msgid "Saving images"
+msgstr ""
+
+#: niwhiboutik.php:86 niwhiboutik.php:101 lib/Ui.php:50 lib/Ui.php:51
+msgid "Search"
+msgstr ""
+
+#: lib/Woo.php:88
+msgid "Search Brands"
+msgstr ""
+
+#: niwhiboutik.php:108
+msgid "Search by ID"
+msgstr ""
+
+#: niwhiboutik.php:109
+msgid "Search by name"
+msgstr ""
+
+#: niwhiboutik.php:117
+msgid "Search error"
+msgstr ""
+
+#: niwhiboutik.php:111
+msgid "Search in progress"
+msgstr ""
+
+#: niwhiboutik.php:116
+msgid "Search products"
+msgstr ""
+
+#: niwhiboutik.php:103
+msgid "Search products to import"
+msgstr ""
+
+#: niwhiboutik.php:87 niwhiboutik.php:145 lib/Ui.php:58 lib/Ui.php:59
+#: lib/Ui.php:68
+msgid "Settings"
+msgstr ""
+
+#: niwhiboutik.php:77
+msgid "Stop import"
+msgstr ""
+
+#: niwhiboutik.php:45
+msgid "Stopping"
+msgstr ""
+
+#: niwhiboutik.php:53
+msgid "Stopping import"
+msgstr ""
+
+#: niwhiboutik.php:58
+msgid "Success"
+msgstr ""
+
+#: niwhiboutik.php:81
+msgid "The import is starting in the background"
+msgstr ""
+
+#: lib/Woo.php:1351 lib/Woo.php:1621 lib/Woo.php:1670
+msgid "The last import from "
+msgstr ""
+
+#: niwhiboutik.php:64
+msgid "The license was activated successfully"
+msgstr ""
+
+#: niwhiboutik.php:74
+msgid "The menu was successfully regenerated."
+msgstr ""
+
+#: niwhiboutik.php:124
+msgid "The product"
+msgstr ""
+
+#: lib/Woo.php:677 lib/Woo.php:687
+msgid "The product could not be imported"
+msgstr ""
+
+#: lib/Woo.php:706
+msgid "The product is archived and will not be imported"
+msgstr ""
+
+#: lib/Woo.php:723
+msgid "The product is set not to display and will not be imported"
+msgstr ""
+
+#: niwhiboutik.php:136
+msgid "Unauthorized"
+msgstr ""
+
+#: niwhiboutik.php:67
+msgid "Unknown error, please contact your server administrator or support."
+msgstr ""
+
+#: niwhiboutik.php:91
+msgid "Unread"
+msgstr ""
+
+#: niwhiboutik.php:60
+msgid "Update"
+msgstr ""
+
+#: lib/Woo.php:108
+msgid "Update Brand"
+msgstr ""
+
+#: niwhiboutik.php:96
+msgid "Update catalog"
+msgstr ""
+
+#: lib/Woo.php:237
+msgid "Updating brands"
+msgstr ""
+
+#: lib/Woo.php:229
+msgid "Updating categories"
+msgstr ""
+
+#: niwhiboutik.php:68
+msgid "Updating license"
+msgstr ""
+
+#: lib/Woo.php:878
+msgid "Visibility"
+msgstr ""
+
+#: niwhiboutik.php:126
+msgid "was imported"
+msgstr ""
+
+#: niwhiboutik.php:125
+msgid "was not imported"
+msgstr ""
+
+#: niwhiboutik.php:39
+msgid ""
+"When you click the below button, the plugins connects to both Hiboutik and "
+"Woocommerce so they can communicate, determine the changes needed and import "
+"all of the products except the archived ones."
+msgstr ""
+
+#: niwhiboutik.php:97
+msgid ""
+"You are about to import all of the products. This may take some time. If you "
+"have a large number of references on Hiboutik and you have updated some of "
+"them, it may be more interesting to search the references via the form and "
+"import them manually. The import will run in the background and download the "
+"remote images."
+msgstr ""
+
+#: niwhiboutik.php:191
+msgid ""
+"You can choose which options you would like to use on the custom generated "
+"menu. Disabled it, regenerate it, customize it, do what you want with it !"
+msgstr ""
+
+#: niwhiboutik.php:70
+msgid ""
+"Your license is valid, but you need to activate it for the plugin to work."
+msgstr ""

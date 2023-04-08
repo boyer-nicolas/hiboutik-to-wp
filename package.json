@@ -1,0 +1,51 @@
+{
+  "name": "niwhiboutik",
+  "version": "1.1.9",
+  "main": "index.js",
+  "repository": "git@gitlab.com:niwee-productions/plugins/niwhiboutik.git",
+  "author": "NiWee Productions <hello@niwee.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "@popperjs/core": "^2.11.5",
+    "@svgr/webpack": "^6.3.1",
+    "@wordpress/element": "^4.14.0",
+    "@wordpress/react-i18n": "^3.14.0",
+    "axios": "^0.27.2",
+    "babel-loader": "^8.2.5",
+    "babel-plugin-macros": "^3.1.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "bootstrap": "^5.1.3",
+    "cors": "^2.8.5",
+    "css-loader": "^6.7.1",
+    "eslint-webpack-plugin": "^3.2.0",
+    "feather-icons": "^4.29.0",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.5.0",
+    "js-cookie": "^3.0.1",
+    "react-bootstrap": "^2.4.0",
+    "react-dom": "^18.2.0",
+    "react-feather": "^2.0.10",
+    "react-paginate": "^8.1.3",
+    "react-router-dom": "6",
+    "sass": "^1.53.0",
+    "sass-loader": "^13.0.1",
+    "style-loader": "^3.3.1",
+    "svg-inline-loader": "^0.8.2",
+    "sweetalert2": "^11.4.29",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.9.2",
+    "webpack-messages": "^2.0.4",
+    "webpackbar": "^5.0.2"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^23.3.0",
+    "eslint": "^8.18.0",
+    "eslint-plugin-react": "^7.30.1",
+    "react": "^18.2.0"
+  },
+  "scripts": {
+    "build": "yarn && chmod -R +x node_modules && NODE_ENV='production' webpack",
+    "dev": "chmod -R +x node_modules && NODE_ENV='development' webpack --watch",
+    "pub": "./publish.sh"
+  }
+}
